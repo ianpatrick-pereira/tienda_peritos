@@ -11,7 +11,6 @@ const API_BASE = "/api/productos";
 
 
 
-
 let editandoId = null;
 
 const tbody = document.getElementById("tbodyProductos");
